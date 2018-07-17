@@ -1,0 +1,13 @@
+dn: cn=ldapuser1,ou=groups,dc=example,dc=com
+objectClass: posixGroup
+objectClass: top
+cn: ldapuser1
+userPassword: {crypt}x
+gidNumber: 1001
+
+dn: cn=ldapuser2,ou=groups,dc=example,dc=com
+objectClass: posixGroup
+objectClass: top
+cn: ldapuser2
+userPassword: {crypt}x
+gidNumber: 1002
