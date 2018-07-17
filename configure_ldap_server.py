@@ -1,5 +1,5 @@
 
-# This script has been tested on Python 2.7.5
+# This script has been tested on RHEL 7.3 with Python 2.7.5
 #!/usr/bin/python
 
 import os
